@@ -1,6 +1,6 @@
 {
     "env": {
-        "MONGODB_USERNAME": "ram",
-        "MONGODB_PASSWORD": "Assassino"
+        "MONGODB_USERNAME": "input your mongo db atlas cluster username",
+        "MONGODB_PASSWORD": "input your mongo db atlas cluster password"
     }
 }
